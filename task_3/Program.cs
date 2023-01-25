@@ -2,7 +2,9 @@
 using static Sorting;
 using static Infrastucture;
 
-int[] array = CreateArray(10);
-Show(array);
-SortSelection(array);
-Show(array);
+// int[] array = CreateArray(10);
+// Show(array);
+// SortSelection(array);
+// Show(array);
+
+10.CreateArray().Show().SortSelection().Show();
